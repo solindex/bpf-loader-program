@@ -18,10 +18,10 @@ num-traits = "0.2"
 rand_core = "0.6.2"
 libsecp256k1 = "0.5.0"
 sha3 = "0.9.1"
-solana-measure = { git = "https://github.com/measure.git", version = "=1.8.14" }
-solana-metrics = { git = "https://github.com/metrics.git", version = "=1.8.14" }
-solana-runtime = { git = "https://github.com/runtime.git", version = "=1.8.14" }
-solana-sdk = { git = "https://github.com/sdk.git", version = "=1.8.14" }
+solana-measure = { git = "https://github.com/solindex/measure.git", version = "=1.8.14" }
+solana-metrics = { git = "https://github.com/solindex/metrics.git", version = "=1.8.14" }
+solana-runtime = { git = "https://github.com/solindex/runtime.git", version = "=1.8.14" }
+solana-sdk = { git = "https://github.com/solindex/sdk.git", version = "=1.8.14" }
 solana_rbpf = "=0.2.21"
 thiserror = "1.0"
 
